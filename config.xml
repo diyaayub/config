@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.phonegap.smarttutorials"
+        version   = "1.0.0">
+
+	<name>SmartTutorials</name>
+	<description>
+		SmartTutorials - Life is short, Do big things.
+	</description>
+	<author href="http://www.smarttutorials.net/about-muni/" email="muni@smarttutorials.net">
+		muni 
+	</author>
+	<content src="http://www.smarttutorials.net" />
+
+<platform name="android" />
+<platform name="winphone" />
+
+
+</widget>
